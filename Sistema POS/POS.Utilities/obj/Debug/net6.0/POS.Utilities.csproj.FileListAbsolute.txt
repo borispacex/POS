@@ -1,0 +1,12 @@
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\bin\Debug\net6.0\POS.Utilities.deps.json
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\bin\Debug\net6.0\POS.Utilities.dll
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.AssemblyReference.cache
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfoInputs.cache
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfo.cs
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.dll
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\obj\Debug\net6.0\refint\POS.Utilities.dll
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.pdb
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Utilities\obj\Debug\net6.0\ref\POS.Utilities.dll

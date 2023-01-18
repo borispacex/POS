@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qq1WBYY6lt3wKCXe2fq2Sobc6uTJIsWlpz6YpP++1j3+gNv/kNcK9Ujp986z2eW6EbHqnJXCVU6lPT+6yoeIPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BORIS\\Documents\\Projects\\CSharp-projects\\Sistema Punto de Venta\\Sistema POS\\POS.Utilities\\POS.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BORIS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\BORIS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\BORIS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

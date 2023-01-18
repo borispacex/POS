@@ -1,0 +1,17 @@
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\bin\Debug\net6.0\POS.Infraestructure.deps.json
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\bin\Debug\net6.0\POS.Infraestructure.dll
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\bin\Debug\net6.0\POS.Infraestructure.pdb
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\bin\Debug\net6.0\POS.Domain.dll
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\bin\Debug\net6.0\POS.Utilities.dll
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\bin\Debug\net6.0\POS.Domain.pdb
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.AssemblyInfo.cs
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.csproj.CopyComplete
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.dll
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\obj\Debug\net6.0\refint\POS.Infraestructure.dll
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.pdb
+C:\Users\BORIS\Documents\Projects\CSharp-projects\Sistema Punto de Venta\Sistema POS\POS.Infraestructure\obj\Debug\net6.0\ref\POS.Infraestructure.dll

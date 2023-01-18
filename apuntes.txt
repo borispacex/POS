@@ -1,0 +1,106 @@
+1. Implementar BD y arquitectura del proyecto
+2. Instalar paquetes Nuget y ejecutar Scaffolding
+ - Capa de DOMAIN
+	- Microsoft.EntityFrameworkCore.SqlServer
+	- Microsoft.EntityFrameworkCore.Tools
+ - Capa de INSFRAESTRUCTURE
+	- System.Linq.Dynamic.Core
+ - Capa de APPLICATION
+	- AutoMapper
+	- AutoMapper.Extensions.Microsoft.DependencyInjection
+	- Azure.Storage.Blobs
+	- FluentValidation.AspNetCore
+ - Capa de API
+	- Microsoft.EntityFrameworkCore.Design
+
+ - migramos
+	Scaffold-DbContext "Server=DESKTOP-V3E5ICQ\MSSQLSERVERDEV; DataBase=POS;Integrated Security=true" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir Entities -ContextDir Context
+(se uso este) Scaffold-DbContext "Server=DESKTOP-V3E5ICQ\MSSQLSERVERDEV; DataBase=POS;Integrated Security=true" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir Entities
+
+3. Organizar nuestro Context
+ - Tambien agregamos la conexion con la BD en Program.cs en la API
+
+4. Clase Generica, Patron Repository y UnitOfWork
+
+5. Filtros y métodos en ICategoryRepository
+
+6. Métodos CRUD en CategoryRepository
+
+7. Crear DTOs y validar con FluentValidation
+
+8. Crear constantes y Clase común BaseRespons
+
+9. Automapper e implementar Controller de API
+
+10. Pruebas de APIs con POSTMAN
+-- FILTROS
+{
+  "numPage": 2,
+  "numRecordsPage": 10,
+  "order": "asc",
+  "sort": "CategoryId"
+}
+-- Filtrar por nombre (1 = name, 2 = description)
+{
+  "numFilter": 1,
+  "textFilter": "Termite Control"
+}
+-- por estado 1: Activo
+{
+  "stateFilter": 1
+}
+-- filtro por rango de fecha
+{
+  "startDate": "2020-09-06",
+  "endDate": "2021-09-06"
+}
+
+11. Potenciando el GenericRepository Part 1.
+
+12. Potenciando el GenericRepository Part 2.
+
+13. Integration Tests con MsTest en .NET 6.
+ - Instalamos en Test una dependencia en NUGET
+	- Microsoft.AspNetCore.Mvc.Testing
+
+
+15. Service de SweetAlert2 y Category.
+	- ng g s shared/services/alert
+	- ng g s services/category --skip-tests true
+	- ng g m pages/category --routing
+	- ng g c pages/category/categoryList --skip-tests true
+
+17. Aplicar filtros por estados.
+
+20. Componente agregar Categoría - MatDialog
+	- ng g c pages/category/categoryManage --skip-tests true
+
+22. Registrar Usuarios y JWT Authentication.
+ - Instalamos en Application
+	- BCrypt.Net-Next
+
+23. Proteger EndPoints con [Authorize] - Swagger.
+ - Instalamos en capa API
+	- Microsoft.AspNetCore.Authentication.JwtBearer
+
+
+24. Subir imágenes a Azure Storage.
+ - Instalamos en Capa Infraestructure
+	- Azure.Storage.Blobs
+	- Microsoft.AspNetCore.Http
+
+25. Desplegar nuestra API con Docker.
+ - Descargar docker y descargamos estas imagenes
+	- docker pull mcr.microsoft.com/dotnet/aspnet:6.0
+	- docker pull mcr.microsoft.com/dotnet/sdk:6.0
+ - Instanciamos la imagen
+	- docker image build -t pos:1.0 -f .\POS.Api\Dockerfile .  
+ - Creamos el contenedor
+	- docker container create --name pos-container -p 2023:8080 pos:1.0
+
+31. Registro de Logs con WatchDog.NET
+ - Instalamos en Capa de aplicacion
+	- Watchdog.NET
+
+
+
